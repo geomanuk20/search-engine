@@ -1,6 +1,8 @@
 # search-engine
 
 #HTML
+
+
 Search Form: The form contains an input field where users can type their search query.
 The onkeyup event triggers the search() function every time a key is released, allowing for real-time filtering.
 
